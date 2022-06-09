@@ -4,3 +4,6 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule "vim-which-key"]
+	path = vim-which-key
+	url = https://github.com/liuchengxu/vim-which-key.git
